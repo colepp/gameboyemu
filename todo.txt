@@ -1,0 +1,5 @@
+
+TODO
+1. MAKE A MAIN GB FILE
+2. TURN gb_cpu.cpp INTO A HEADER
+3. 
